@@ -1,4 +1,3 @@
-```markdown
 # Product Discovery with AI Assist
 
 A full-stack product discovery experience featuring a natural-language search powered by Large Language Models (LLMs). This project was built for the Discvrai Full-Stack Development Assessment.
@@ -80,5 +79,3 @@ npm run dev
 * **Total:** ~5.5 hours
 
 ```
-
-***
