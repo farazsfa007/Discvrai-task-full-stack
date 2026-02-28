@@ -11,7 +11,7 @@ function App() {
   const [error, setError] = useState('');
 
   useEffect(() => {
-    fetch('/api/products')
+    fetch('https://discvrai-task-backend.onrender.com/api/products')
       .then((res) => res.json())
       .then((data) => {
         setAllProducts(data);
@@ -33,7 +33,7 @@ function App() {
     setSummary('');
 
     try {
-      const response = await fetch('http://localhost:3000/api/ask', {
+      const response = await fetch('https://discvrai-task-backend.onrender.com/api/ask', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query }),
