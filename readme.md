@@ -9,8 +9,6 @@ A full-stack product discovery experience featuring a natural-language search po
 * **AI/LLM:** Google Gemini API (`gemini-2.5-flash`).
 * **Data:** In-memory JSON mock catalog.
 
-> **Note on LLM Selection:** The assignment guidelines suggested OpenAI. However, to ensure a fully functional, end-to-end working demo without running into OpenAI's new-account billing/quota restrictions (`insufficient_quota`), I proactively integrated the **Google Gemini API**. The architectural flow, prompt engineering, and structured JSON parsing remain exactly as they would with OpenAI.
-
 ## ⚙️ Features & Implementation Details
 
 ### Backend API
