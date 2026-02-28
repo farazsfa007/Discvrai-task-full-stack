@@ -75,5 +75,3 @@ npm run dev
 * **Frontend & State Management:** ~2 hr
 * **Testing, Refactoring & README:** ~30 min
 * **Total:** ~5.5 hours
-
-```
