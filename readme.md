@@ -2,6 +2,10 @@
 
 A full-stack product discovery experience featuring a natural-language search powered by Large Language Models (LLMs). This project was built for the Discvrai Full-Stack Development Assessment.
 
+## backend github link:- https://github.com/farazsfa007/Discvrai-task-backend
+## frontend github link:- https://github.com/farazsfa007/Discvrai-task-full-stack
+## Deployment link:- https://lucent-snickerdoodle-d18a41.netlify.app/
+
 ## 🚀 Tech Stack
 
 * **Frontend:** React (bootstrapped with Vite), plain CSS for styling.
@@ -74,4 +78,4 @@ npm run dev
 * **Backend & AI Integration:** ~2 hr
 * **Frontend & State Management:** ~1 hr
 * **Testing, Refactoring & README:** ~30 min
-* **Total:** ~3.5 hours
+* **Total:** ~5.5 hours
