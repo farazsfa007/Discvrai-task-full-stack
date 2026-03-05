@@ -78,4 +78,4 @@ npm run dev
 * **Backend & AI Integration:** ~2 hr
 * **Frontend & State Management:** ~1 hr
 * **Testing, Refactoring & README:** ~30 min
-* **Total:** ~5.5 hours
+* **Total:** ~3.5 hours
